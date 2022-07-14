@@ -1,0 +1,28 @@
+{
+  "name": "kebab-ipsum",
+  "version": "1.0.0",
+  "description": "Generates passages of dummy text with replaced traditional \"lorem\" to \"kebab\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstfsgdc/kebab-ipsum.git"
+  },
+  "keywords": [
+    "kebab",
+    "ipsum",
+    "lorem",
+    "dummy",
+    "text",
+    "placeholder",
+    "filler"
+  ],
+  "author": "c0pper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mstfsgdc/kebab-ipsum/issues"
+  },
+  "homepage": "https://github.com/mstfsgdc/kebab-ipsum#readme"
+}
